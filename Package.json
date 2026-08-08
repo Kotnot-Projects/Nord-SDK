@@ -1,0 +1,16 @@
+{
+  "name": "nord-sdk",
+  "version": "1.0.0",
+  "description": "Nord SDK - Complete Anti-Cheat & Security Suite for HTML5 Games",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["anticheat", "gaming", "security", "captcha", "license", "hwid"],
+  "author": "Kotnot Projects",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kotnot-Projects/Nord-SDK"
+  }
+}
